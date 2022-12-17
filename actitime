@@ -19,5 +19,7 @@ public class LocalHTMLANDORGATE {
 		 
 		driver.get("https://google.com");
 		driver.findElement(By.name("q")).click();
+		
+		System.out.println();
 	}
 }

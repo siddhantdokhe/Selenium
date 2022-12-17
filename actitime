@@ -21,5 +21,7 @@ public class LocalHTMLANDORGATE {
 		driver.findElement(By.name("q")).click();
 		
 		System.out.println();
+		}}
+		
 	}
-}
+
